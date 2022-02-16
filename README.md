@@ -1,2 +1,2 @@
-# heroku
-for yelpcamp
+# YelpCamp Clone
+hosted by heroku
